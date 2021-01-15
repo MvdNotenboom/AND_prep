@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866942680399",
+    "firebase_url": "https://prototypeapp-b6fba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "prototypeapp-b6fba",
+    "storage_bucket": "prototypeapp-b6fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866942680399:android:64b09493e17ae25e28193a",
+        "android_client_info": {
+          "package_name": "com.example.v2prototypeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866942680399-mj6leucsmpoipv6t2ktvnn8mpchpukja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIo3xtCR1g85IY9u1QsLiqFkLCzZYpbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866942680399-mj6leucsmpoipv6t2ktvnn8mpchpukja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
